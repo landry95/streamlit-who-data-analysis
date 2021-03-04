@@ -1,0 +1,11 @@
+
+pandas 
+streamlit 
+os
+matplotlib.pylab
+seaborn
+IPython.display
+numpy
+matplotlib.colors
+matplotlib.pyplot
+PIL
